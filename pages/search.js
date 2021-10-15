@@ -13,7 +13,7 @@ function Search({ searchResults }) {
   const range = `${formattedStartDate} - ${formattedEndDate}`;
   
   return (
-    <div className="h-screen bg-gray-100">
+    <div className="bg-gray-100">
       <Head>
         <title>Airbnb || clone</title>
         <link rel="icon" href="/favicon.ico" />
